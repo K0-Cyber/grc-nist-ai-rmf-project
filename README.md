@@ -62,3 +62,19 @@ grc-nist-ai-rmf-project/
 │   ├── iso27001-mapping.md
 │   └── eu-ai-act-mapping.md
 └── screenshots/
+
+## Key Deliverables
+
+| Deliverable | Purpose |
+|---|---|
+| AI System Card | Documents the AI system purpose, users, data, oversight, and limitations |
+| Model Card | Documents model characteristics, training data, evaluation results, and known limitations |
+| AI Security Policy | Defines the organisation’s approach to trustworthy and secure AI |
+| AI Governance RACI | Assigns AI risk and governance responsibilities |
+| AI Risk Register | Records 12 AI-specific risks with likelihood, impact, residual risk, and status |
+| Requirements Traceability Matrix | Maps NIST AI RMF requirements to controls, implementation evidence, and status |
+| Red Team Exercise Report | Documents AI security testing findings and remediation actions |
+| Bias Assessment | Assesses potential demographic bias in AI responses |
+| OWASP LLM Top 10 Mapping | Maps LLM security risks to NIST AI RMF and the AI Risk Register |
+| AI Incident Response Procedure | Defines how hallucination, privacy, bias, security, and transparency incidents are handled |
+| Cross-Framework Mapping | Links NIST AI RMF to OWASP LLM Top 10, ISO 27001, and the EU AI Act |
